@@ -6,9 +6,13 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
 
 ---
 
-## Getting Started
-- Make sure to have Visual Studio Downloaded with Python Extension
-- Be able to sign into AWS services
+### Prerequisites
+
+- Python 3.7+
+- AWS account and access credentials
+- An existing S3 bucket with images
+- Visual Studio Code (or any Python IDE)
+- Python extension (if using VS Code)
 
 --- 
 
