@@ -1,5 +1,5 @@
 # ImageRekogintion
-Rekoginizes objects in images and utilizes AWS servies.
+Rekoginizes objects in images while utilizing AWS servies.
 
 ## Description
 Takes images from AWS S3 buckets then identifies objects within the picuture. The function utilized AWS
