@@ -27,3 +27,9 @@ Open the terminal and type
     python file_name.py
 
 This should return 10 objects and their confidnece level in the output termial and open a new tab for the image
+
+## Example Input/Output
+
+### Example Input
+
+(https://www.google.com/imgres?q=busy%20street&imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2FDBGC3A%2Fbusy-times-square-in-manhattan-new-york-city-street-with-crowds-of-DBGC3A.jpg&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fbusy-street-new-york.html&docid=mI5dCoWwG7pajM&tbnid=3UBOXlqzRIWMKM&vet=12ahUKEwijp9KbzvSOAxX1k2oFHbd8AIkQM3oECGIQAA..i&w=1300&h=1015&hcb=2&ved=2ahUKEwijp9KbzvSOAxX1k2oFHbd8AIkQM3oECGIQAA)
