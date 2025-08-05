@@ -15,3 +15,10 @@ boto3 for interacting with AWS services
 matplotlib for visualization.
 PIL (Python Imaging Library) for handling image data.
 BytesIO from the io module to work with image data.
+
+## Running Program
+Open the terminal and type
+
+    python file_name.py
+
+This should return 10 objects and their confidnece level in the output termial and open a new tab for the image
