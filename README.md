@@ -15,10 +15,11 @@ Be able to sign into AWS services
 --- 
 
 ## Libraries
-boto3 for interacting with AWS services
-matplotlib for visualization.
-PIL (Python Imaging Library) for handling image data.
-BytesIO from the io module to work with image data.
+
+- boto3 for interacting with AWS services
+- matplotlib for visualization.
+- PIL (Python Imaging Library) for handling image data.
+- BytesIO from the io module to work with image data.
 
 --- 
 
