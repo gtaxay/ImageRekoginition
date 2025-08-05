@@ -32,7 +32,7 @@ This should return 10 objects and their confidnece level in the output termial a
 
 ### Example Input
 
-        <img width="415" height="350" alt="image" src="https://github.com/user-            attachments/assets/7d38342d-cf64-481b-8aa0-9d6ad507a7f9" />
+<img width="415" height="350" alt="image" src="https://github.com/user-            attachments/assets/7d38342d-cf64-481b-8aa0-9d6ad507a7f9" />
 
 ### Example Output
 
