@@ -43,6 +43,6 @@ The script will:
 
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/20b9cfc8-ad8a-475c-8227-2e73a2886257" />
 
-<img width="456" height="664" alt="image" src="https://github.com/user-attachments/assets/e79d38c6-a503-4b3f-bdb4-c83a2a4b6d51" />
+<img width="200" height="325" alt="image" src="https://github.com/user-attachments/assets/e79d38c6-a503-4b3f-bdb4-c83a2a4b6d51" />
 
 
