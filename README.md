@@ -2,15 +2,13 @@
 Rekoginizes objects in images while utilizing AWS servies.
 
 ## Description
-Takes images from AWS S3 buckets then identifies objects within the picuture. The function utilized AWS
-Rekognition to identify the objects which are outlined with red boxes and given lables. Labels include
-name and confidence percentage of the object.
+Takes images from AWS S3 buckets then identifies objects within the picuture. The function utilized AWS Rekognition to identify the objects which are outlined with red boxes and given lables. Labels include object name and confidence percentage of the object.
 
 ---
 
 ## Getting Started
-Make sure to have Visual Studio Downloaded with Python Extension
-Be able to sign into AWS services
+- Make sure to have Visual Studio Downloaded with Python Extension
+- Be able to sign into AWS services
 
 --- 
 
