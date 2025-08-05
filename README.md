@@ -42,8 +42,8 @@ The script will:
 ### Example Output
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/52abf8cd-2bf1-4811-b247-e5592a45c572" />
-<img width="200" height="325" alt="image" src="https://github.com/user-attachments/assets/e79d38c6-a503-4b3f-bdb4-c83a2a4b6d51" />
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/52abf8cd-2bf1-4811-b247-e5592a45c572" />
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/e79d38c6-a503-4b3f-bdb4-c83a2a4b6d51" />
 </div>
 
 
