@@ -26,7 +26,11 @@ Open the terminal and type
 
     python file_name.py
 
-This should return 10 objects and their confidnece level in the output termial and open a new tab for the image
+The script will:
+- Fetch an image from your S3 bucket
+- Use AWS Rekognition to identify objects (up to 10)
+- Print each label and confidence score in the terminal
+- Display the image with bounding boxes and labels in a new window
 
 ## Example Input/Output
 
@@ -38,5 +42,7 @@ This should return 10 objects and their confidnece level in the output termial a
 ### Example Output
 
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/20b9cfc8-ad8a-475c-8227-2e73a2886257" />
+
+<img width="456" height="664" alt="image" src="https://github.com/user-attachments/assets/e79d38c6-a503-4b3f-bdb4-c83a2a4b6d51" />
 
 
