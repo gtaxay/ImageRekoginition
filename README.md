@@ -36,5 +36,6 @@ This should return 10 objects and their confidnece level in the output termial a
 
 ### Example Output
 
-<img width="415" height="350" alt="image" src="https://github.com/user-attachments/assets/e73fa0e5-e2be-4eba-992c-8d581e84ad5a" />
+<img width="415" height="350" alt="image" src="https://github.com/user-attachments/assets/20b9cfc8-ad8a-475c-8227-2e73a2886257" />
+
 
