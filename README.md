@@ -32,16 +32,18 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
         aws configure
    
    You will need:
+   
         - Access Key ID
         - Secret Access Key
         - Region (e.g., us-east-1)
 
    IAM permissions required:
+   
         - rekognition:DetectLabels
         - s3:GetObject
 
 
-2. Prepare Your Image Dataset
+3. Prepare Your Image Dataset
            Upload one or more .jpg or .png images to your S3 bucket. Ensure public read access is disabled and permissions are properly scoped.
 
 ---
