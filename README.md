@@ -19,10 +19,10 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
 ## AWS Services Used
 
 Service	Purpose
-Amazon Rekognition	Detects objects and returns labels with confidence scores.
-Amazon S3	Stores and retrieves images for processing.
-AWS IAM	Manages secure access via user roles and policies.
-AWS CLI	Enables command-line interaction with AWS resources.
+Amazon Rekognition - Detects objects and returns labels with confidence scores.
+Amazon S3 - Stores and retrieves images for processing.
+AWS IAM - Manages secure access via user roles and policies.
+AWS CLI - Enables command-line interaction with AWS resources.
 
 ## Libraries
 
