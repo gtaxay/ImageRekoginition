@@ -24,6 +24,24 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
 - BytesIO from the io module to work with image data.
 
 --- 
+## Configuration & Setup
+1. Set up AWS CLI
+Ensure your AWS CLI is installed and configured:
+
+        aws configure
+   
+You will need:
+- Access Key ID
+- Secret Access Key
+- Region (e.g., us-east-1)
+
+IAM permissions required:
+- rekognition:DetectLabels
+- s3:GetObject
+
+
+2. Prepare Your Image Dataset
+    Upload one or more .jpg or .png images to your S3 bucket. Ensure public read access is disabled and permissions are properly scoped.
 
 ## Running Program
 Open the terminal and type
@@ -35,6 +53,8 @@ The script will:
 - Use AWS Rekognition to identify objects (up to 10)
 - Print each label and confidence score in the terminal
 - Display the image with bounding boxes and labels in a new window
+
+---
 
 ## Example Input/Output
 
