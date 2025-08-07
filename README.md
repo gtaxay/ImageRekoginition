@@ -23,6 +23,8 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
 - AWS IAM - Manages secure access via user roles and policies.
 - AWS CLI - Enables command-line interaction with AWS resources.
 
+---
+
 ## Libraries
 
 - boto3 for interacting with AWS services
