@@ -6,7 +6,7 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
 
 ---
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.7+
 - AWS account and access credentials
@@ -15,6 +15,14 @@ Takes images from AWS S3 buckets then identifies objects within the picuture. Th
 - Python extension (if using VS Code)
 
 --- 
+
+## AWS Services Used
+
+Service	Purpose
+Amazon Rekognition	Detects objects and returns labels with confidence scores.
+Amazon S3	Stores and retrieves images for processing.
+AWS IAM	Manages secure access via user roles and policies.
+AWS CLI	Enables command-line interaction with AWS resources.
 
 ## Libraries
 
